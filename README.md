@@ -1,3 +1,6 @@
+# Temporary Fork
+This is a temporarily pinned fork of https://github.com/hako-mikan/sd-webui-supermerger to work around the issue https://github.com/hako-mikan/sd-webui-supermerger/issues/371 with SDXL LoRA merging.
+
 # SuperMerger
 - Model merge extention for [AUTOMATIC1111's stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 
 - Merge models can be loaded directly for generation without saving
